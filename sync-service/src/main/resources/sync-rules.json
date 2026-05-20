@@ -1,0 +1,6 @@
+{
+  "rules": [
+    { "type": "byRecordType", "recordType": "user", "targets": ["ext-1", "ext-2"] },
+    { "type": "byRecordType", "recordType": "item", "targets": ["ext-1"] }
+  ]
+}
